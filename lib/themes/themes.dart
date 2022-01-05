@@ -1,0 +1,1 @@
+export 'package:newsapp/themes/my_theme.dart';
